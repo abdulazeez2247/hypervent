@@ -1,0 +1,25 @@
+{
+  "name": "hypervent-nuxt",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.7.2",
+    "@fortawesome/free-brands-svg-icons": "^6.7.2",
+    "@fortawesome/free-solid-svg-icons": "^6.7.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "@tailwindcss/postcss": "^4.1.10",
+    "lucide-vue-next": "^0.523.0",
+    "nuxt": "^3.10.0"
+  },
+  "devDependencies": {
+    "@headlessui/vue": "^1.7.23",
+    "@heroicons/vue": "^2.2.0",
+    "@nuxt/icon": "^1.14.0",
+    "@nuxtjs/tailwindcss": "^7.0.0-beta.0",
+    "tailwindcss": "^4.1.10"
+  }
+}
