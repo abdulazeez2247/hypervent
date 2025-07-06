@@ -2,7 +2,7 @@ import { library } from '@fortawesome/fontawesome-svg-core'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 import {
-  faClipboard,
+  faClipboardList,
   faChevronDown,
   faAngleDoubleLeft,
   faAngleLeft,
@@ -32,7 +32,7 @@ import {
 
 
 library.add(
-  faClipboard,
+  faClipboardList,
   faChevronDown,
   faAngleDoubleLeft,
   faAngleLeft,
