@@ -55,7 +55,7 @@
             </div>
             <p class="mt-2">Launch tokens instantly, no coding required — built-in <br> vesting, governance,
               staking modules.</p>
-            <img src="/public/images/whyhypervent3.jpg" alt=""
+            <img src="/images/whyhypervent3.jpg" alt=""
               class="h-67 object-cover mt-5 w-full rounded-2xl shadow-sm" />
           </div>
 
@@ -65,7 +65,7 @@
             </div>
             <p class="mt-2">Earn XP, unlock loot boxes, climb leaderboards, and win <br> exclusive NFTs and
               tokens.</p>
-            <img src="/public/images/whyhyprvent4.jpg" alt=""
+            <img src="/images/whyhyprvent4.jpg" alt=""
               class="h-65 object-cover mt-5 w-full rounded-2xl shadow-sm" />
           </div>
         </div>
@@ -142,14 +142,14 @@
       </div>
       <div class="flex flex-row gap-10  mt-15 justify-center">
         <div class="shadow-sm bg-[#000000f0] text-white p-5 rounded-2xl ">
-          <img src="/public/images/img3.jpg" alt="" class="h-70 w-80 rounded-2xl">
+          <img src="/images/img3.jpg" alt="" class="h-70 w-80 rounded-2xl">
           <h2 class="font-bold text-2xl mt-8">Institutional-Grade Perps</h2>
           <p class="mt-8 text-xm">Ultra-low latency (sub-400ms) <br> High leverage (up to 50x) <br> Safe
             liquidations, tight spreads, <br> API integrations</p>
         </div>
         <div>
           <div class="flex flex-row gap-5 justify-center shadow-sm bg-white rounded-2xl p-5">
-            <img src="/public/images/img2.jpg" alt="" class="h-60">
+            <img src="/images/img2.jpg" alt="" class="h-60">
             <div class="mt-7">
               <h2 class="font-bold text-2xl">Token Factory & Launchpad</h2>
               <div class="mt-5 text-xm">
@@ -160,7 +160,7 @@
             </div>
           </div>
           <div class="flex flex-row gap-5 p-5  justify-center mt-8 shadow-sm rounded-2xl bg-white">
-            <img src="/public/images/img1.jpg" alt="" class="h-60">
+            <img src="/images/img1.jpg" alt="" class="h-60">
             <div class="mt-7">
               <h2 class="font-bold text-2xl">Swap Engine & Gamified Staking</h2>
               <div class="mt-5 text-xm">
